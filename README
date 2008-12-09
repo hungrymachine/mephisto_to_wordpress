@@ -1,0 +1,7 @@
+This is based on work done by:
+  http://schwuk.com/articles/2008/03/25/thy-will-be-done-m2wppy-is-released
+  http://jayunit.net/2008/04/16/mephisto-to-wordpress/
+
+Enhancements:
+  1) retain author attribution per article, instead of admin for everyone. WordPress will auto create accounts for users it finds in the export file, or will map them to existing accounts.
+  2) Only import published posts.  
