@@ -5,5 +5,7 @@ This is based on work done by:
 You'll need to follow those steps to install python, and MySQLdb
 
 Enhancements:
-  1) retain author attribution per article, instead of admin for everyone. WordPress will auto create accounts for users it finds in the export file, or will map them to existing accounts.
+  1) retain author attribution per article, instead of admin for everyone. 
+     WordPress will auto create accounts for users it finds in the export file, 
+     or will map them to existing accounts.
   2) Only import published posts.  
